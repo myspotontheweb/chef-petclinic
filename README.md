@@ -1,13 +1,4 @@
-# chef-petclinic cookbook
+chef-petclinic
+==============
 
-# Requirements
-
-# Usage
-
-# Attributes
-
-# Recipes
-
-# Author
-
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+application cookbook example using the standard spingsource petclinic example
